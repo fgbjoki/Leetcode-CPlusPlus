@@ -1,7 +1,7 @@
 # Leetcode problems
- 1. Two Sum [Easy]
- 2. Add Two Numbers [Medium]
- 7. Reverse Integer [Easy]
- 9. Palindrome [Easy]
- 13. Roman to Integer [Easy]
- 14. Longest Common Prefix [Easy]
+ :heavy_check_mark: 1. Two Sum [Easy]
+ :heavy_check_mark: 2. Add Two Numbers [Medium]
+ :heavy_check_mark: 7. Reverse Integer [Easy]
+ :heavy_check_mark: 9. Palindrome [Easy]
+ :heavy_check_mark: 13. Roman to Integer [Easy]
+ :heavy_check_mark: 14. Longest Common Prefix [Easy]
